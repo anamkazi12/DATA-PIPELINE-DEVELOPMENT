@@ -1,0 +1,9 @@
+EmployeeID,Name,Age,Gender,Department,Salary,Experience
+101,Anam,20,Female,IT,25000,1
+102,Ali,22,Male,HR,30000,2
+103,Sara,21,Female,Finance,,1
+104,Rehan,23,Male,IT,40000,3
+105,Ayesha,,Female,HR,28000,2
+106,Farhan,24,Male,Finance,35000,
+107,Zoya,22,Female,IT,,2
+108,Arjun,25,Male,Marketing,45000,4
