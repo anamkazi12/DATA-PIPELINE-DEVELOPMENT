@@ -13,6 +13,7 @@
 **INTERNSHIP PERIOD**: 18 DECEMBER 2025 - 15 JANUARY 2026  
 
 **MENTOR**: NEELA SANTOSH KUMAR
+
 # Employee Data Preprocessing and Transformation Project
 
 This project focuses on cleaning, transforming, and preparing employee-related data for analytical and machine learning purposes. Real-world datasets are rarely perfect; they often contain missing values, inconsistent entries, mixed data types, and require standardization before they can be used effectively. This project demonstrates how to build a structured preprocessing pipeline using Python, Pandas, NumPy, and Scikit-Learn to convert raw employee data into a clean, standardized, and machine-learning-ready format.
@@ -30,3 +31,7 @@ The project consists of four main files. The original dataset file data.csv cont
 The script prints the original dataset, transformation success messages, processed data shape, feature means for verification, and a preview of the transformed data. This ensures transparency and allows users to visually confirm successful preprocessing.
 
 This project is highly valuable for learning and professional development. It reflects real-industry workflows followed in data analytics, data science, and artificial intelligence fields. Understanding preprocessing is essential because data quality directly impacts the accuracy of predictive models. By automating the transformation pipeline, this project saves time, ensures consistency, and prepares the dataset for future analysis, visualization, or machine learning model development.
+
+#Output
+![Image](https://github.com/user-attachments/assets/66276fd6-cabe-47e0-81ee-d686353be6a9)
+![Image](https://github.com/user-attachments/assets/d505c3a1-a17f-4e5a-8441-374ab7ec2694)
